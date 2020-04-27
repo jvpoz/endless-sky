@@ -1110,3 +1110,198 @@ news "human pirate"
 			"Just knocked over a fat merchant ship. Can't wait to blow all this cash on slaves and drugs!"
 			"I used to be a soft-bellied merchant captain before my life took a turn. Gotta get tough or get dead in this galaxy."
 			"Just a word of warning: don't fall asleep in the hotels here."
+
+# Visual suggestion: sketchy, schemeing, industrious
+news "fence"
+	location
+		government "Pirate"
+		attributes "pirate"
+	name
+		word
+			"Fence"
+			"Pawn broker"
+			"Chopshop worker"
+	portrait
+		portrait/human02
+		portrait/human03
+		portrait/human17
+		portrait/human19
+		portrait/human23
+		portrait/human34
+		portrait/human45
+		portrait/human48
+		portrait/human51
+		portrait/human54
+		portrait/human115
+	message
+		word
+			"Need any special equipment?" 
+			"Looking to offload outfits that used to belong to someone else?"
+			"Got a source of those Atomic engines from the Deep?"
+			"Sometimes you need special equipment to raid the tough ships."
+			"Everybody needs something at some time or other."
+		word
+			" I specialize in connecting buyers and sellers."
+			" You wouldn't believe my prices."
+			" I may know a guy who can help."
+			" Talk to me first for the best offer."
+			" My services are discrete, and I don't keep any sales records."
+			" None of my previous busness partners have ever complained about my services."
+			" I've got a private office nearby where we can talk turkey."
+			""
+			""
+			""
+			""
+			""
+			""
+
+# Visual suggestion: sketchy, schemeing, layabout
+news "illegial gambling"
+	location
+		government "Pirate" "Free Worlds" "Neutral" "Independent"
+		attributes "pirate" "dirt belt" "frontier" 
+	name
+		word
+			"Bookie"
+			"Pool hustler"
+			"Numbers runner"
+			"Card shark"
+	portrait
+		portrait/human02
+		portrait/human08
+		portrait/human15
+		portrait/human21
+		portrait/human22
+		portrait/human24
+		portrait/human48
+		portrait/human50
+		portrait/human57
+		portrait/human72
+		portrait/human92
+		portrait/human108
+		portrait/human122
+	message
+		word
+			"Just got your share of last cruise's booty? You can double it right now."
+			"Need to make a fast credit? Maybe today is your lucky day!"
+			"Feeling lucky, boss?"
+			"Credits in your pocket are boring. Make them exciting by placing a bet."
+			"We're running an honest game. Ask anyone."
+			"At least with gambling, you're not risking your life for a thrill ... if you pay up."
+			"Don't you owe me for that game last month?"
+			"It's sixes and sevens tonight. Should we save you a seat?"
+
+# Visual suggestion: professional. maybe too professional. slick
+news "illegial financing"
+	location
+		government "Pirate"  
+	name
+		word
+			"Offworld banker"
+			"Loan shark"
+	portrait
+		portrait/human12
+		portrait/human14
+		portrait/human16
+		portrait/human32
+		portrait/human43
+		portrait/human24
+		portrait/human48
+		portrait/human84
+		portrait/human91
+		portrait/human93
+		portrait/human103
+		portrait/human104
+		portrait/human125
+	message
+		word
+			"Need a few credits to get buy? I might be able to help."
+			"Supporting family back in the Republic? My associates can make sure credits get to them without any paper trail, for a small fee."
+			"Silly pirates - full of credits and partying tonight, dirt poor again by tomorrow."
+			"I can hide your creidts so deep the Republic treasury will never find them. Of course, there is the matter of my fee..."
+			
+# Visual suggestion: intimidating, rough, also professional sometimes
+news "protection racket"
+	location
+		government "Pirate"  
+	name
+			"Racketeer"
+			"Extortionist"
+	portrait
+		portrait/human06
+		portrait/human07
+		portrait/human15
+		portrait/human17
+		portrait/human23
+		portrait/human25
+		portrait/human36
+		portrait/human45
+		portrait/human54
+		portrait/human69
+		portrait/human73
+		portrait/human116
+	message
+		word
+			"Nice"
+			"Impressive"
+			"Good looking"
+			"Fine"
+			"Expensive"
+			"Well maintained"
+			"Delicate looking"
+			"Mean"
+			"Fancy"
+		word
+			" ship"
+			" starship"
+			" rocketship"
+			" space ship"
+			" scow"
+			" ride"
+			" hooptie"
+			" vessel"
+			" spacecraft"
+		word
+			"."
+			".
+			", captain."
+			", captain."
+			", skipper."
+			", cap'n."
+			", kid."
+			", boss."
+			", matey."
+			", jeffe."
+			", friend."
+			", neighbor."
+			" you've got there."
+			" you managed to aquire."
+			", ain't it."
+		word
+			" It'd be a shame if "
+			" I'd hate if "
+			" It'd be terrible if "
+			" Wouldn't it be a shame if "
+		word	
+			"something "
+			"anything "
+		word
+			"unfortunate"
+			"unexpected"
+			"unpleasant"
+			"disasterous"
+			"calamatous"
+			"untword"
+			"you didn't plan for"
+			"that could have been prevented"
+		word
+			" happened to it"
+			" were to come to pass"
+			" were to befall it"
+			
+			
+			
+			 were to happen to it."
+			"I know what you did back on Vinci. Make it worth my while, and no one else has to find out."
+			"There's no match for a good blaster at your side, kid."
+			"Here's some free advice - stay off the death sticks. It pays to keep a focused mind around here."
